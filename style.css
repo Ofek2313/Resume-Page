@@ -129,3 +129,18 @@ html{
         margin-right: 15%;
     }
 }
+footer p{
+    font-size: 25px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 250;
+    padding-left: 50px;
+    padding-top: 3%;
+   
+    
+}
+footer{
+    background-color: whitesmoke;
+    height: 200px;
+    width: 200%;
+   
+}
